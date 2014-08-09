@@ -38,5 +38,3 @@ var PlayAudio = function (element, url) {
         });
     }
 };
-
-PlayAudio(document.querySelector('p'), 'media/Kalimba.mp3');
